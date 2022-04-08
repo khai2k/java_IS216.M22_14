@@ -14,3 +14,8 @@
 #### Môi trường phát triển: [Eclipse IDE](https://www.eclipse.org/downloads/) for Enterprise Java and Web Developers
 
 #### Phần mềm thiết kế giao diện: [SceneBuilder](https://gluonhq.com/products/scene-builder/) - FXML
+
+1. Mô hình thực thể mối kết hợp ( ERD )
+![image info](./images/erd.png)
+2. Mô hình dữ liệu quan hệ
+![image info](./images/relative.png)
