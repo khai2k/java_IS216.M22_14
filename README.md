@@ -15,6 +15,8 @@
 
 #### Phần mềm thiết kế giao diện: [SceneBuilder](https://gluonhq.com/products/scene-builder/) - FXML
 
+#### Link file cài : https://drive.google.com/drive/folders/1X2u96mbOzTOAyyF8MZ32TetVPgr27Pe-
+
 1. Mô hình thực thể mối kết hợp ( ERD )
 ![image info](./images/erd.png)
 2. Mô hình dữ liệu quan hệ
